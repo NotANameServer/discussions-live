@@ -20,3 +20,7 @@ pour choisir un langage de programmation à apprendre.
 
 Note : l'idée du thème de cette discussion vient d'un article en cours de rédaction sur linuxfr.org :
 [Faut-il continuer à apprendre le C++ ?](http://linuxfr.org/redaction/news/faut-il-continuer-a-apprendre-le-c)
+
+# Invités
+
+Invités : Lmghs (Luc Hermit), Lynix et Ksass'peuk (Allan Blanchard). Animateur : gbdivers (Guillaume Belz).
