@@ -19,4 +19,4 @@ Et, au delà de la question sur le C++, quels sont les critères à prendre en c
 pour choisir un langage de programmation à apprendre.
 
 Note : l'idée du thème de cette discussion vient d'un article en cours de rédaction sur linuxfr.org :
-[Faut-il continuer à apprendre le C++ ?](http://linuxfr.org/redaction/news/faut-il-continuer-a-apprendre-le-c).
+[Faut-il continuer à apprendre le C++ ?](http://linuxfr.org/redaction/news/faut-il-continuer-a-apprendre-le-c)
