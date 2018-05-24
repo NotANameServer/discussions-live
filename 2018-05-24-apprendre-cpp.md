@@ -1,7 +1,7 @@
 
 # Faut-il continuer à apprendre le C++ ?
 
-Prévu le jeudi 24 mai 2018 à 20h, en live sur le discord NaN.
+Prévu le jeudi 24 mai 2018 à 20h, en live sur le [discord NaN](https://discordapp.com/invite/zcWp9sC).
 
 ## Annonce
 
