@@ -23,4 +23,4 @@ Note : l'idée du thème de cette discussion vient d'un article en cours de réd
 
 # Invités
 
-Invités : Lmghs (Luc Hermitte), Lynix et Ksass'peuk (Allan Blanchard). Animateur : gbdivers (Guillaume Belz).
+Invités : Lmghs (Luc Hermitte), Lynix (Jérome Leclerc) et Ksass'peuk (Allan Blanchard). Animateur : gbdivers (Guillaume Belz).
