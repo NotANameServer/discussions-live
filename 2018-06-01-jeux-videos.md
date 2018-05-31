@@ -11,7 +11,7 @@ des a prioris sur le développement de jeux vidéos.
 
 # Invités
 
-Invités : Lynix (Jérome Leclerc). Animateur : gbdivers (Guillaume Belz).
+Invités : Lynix (Jérome Leclercq). Animateur : gbdivers (Guillaume Belz).
 
 - presentation
   - manette ou clavier-souris ?
