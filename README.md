@@ -17,13 +17,13 @@ Plusieurs formats sont proposés, en fonction des intervenants et des thèmes :
 
 - 31 mai : les développeurs de jeux vidéos sont-ils de vrais développeurs ?
 - 7 juin : (rien pour l'instant, pour cause de vacances)
-- 14 juin : preuves, tests, qualite logicielle
+- 14 juin : preuves, tests, qualité logicielle
 
 ## Propositions
 
 Sur l'apprentissage :
 
-- les formations en ligne (openclassroom)
+- les formations en ligne (openclassrooms)
 - les écoles privées d'informatique
 - les ressources d'apprentissage en ligne (zeste de savoir)
 
@@ -33,7 +33,7 @@ Sur les domaines de l'informatique :
 - la cryptographie
 - le piratage et la sécurité informatique
 
-Sur les metiers de l'informatique :
+Sur les métiers de l'informatique :
 
 - la gestion de projet, Agile
 - les outils de devs
