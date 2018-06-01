@@ -1,5 +1,5 @@
 
-# Pourquoi tous les débutants font l'erreur de vouloir développer des jeux vidéos ?
+# Est-ce une erreur de vouloir apprendre à développer des jeux vidéos ?
 
 Prévu le vendredi 1 juin 2018 à 20h, en live sur le [discord NaN](https://discordapp.com/invite/zcWp9sC).
 
@@ -8,6 +8,14 @@ Prévu le vendredi 1 juin 2018 à 20h, en live sur le [discord NaN](https://disc
 La création de jeux vidéos est probablement la motivation principale de nombreux débutants en programmation,
 particulièrement en C++. Malheureusement, les raisons d'un tel engouement sont souvent basées sur des
 des a prioris sur le développement de jeux vidéos.
+
+Il faut reconnaître que le développement de jeux vidéos est un domaine qui peut être passionant. En premier
+lieu parce que les jeux vidéos en eux-mêmes sont passionants. Mais aussi parce que les jeux vidéos
+demandent des compétences dans de très nombreux domaines, artistiques ou techniques : graphismes, sons,
+game design, performances, intelligence artificielle, etc.
+
+Le but de cette discussion va être d'avoir le point de vue général d'un développeur de jeux vidéos
+sur les différentes problématiques de ce domaine.
 
 # Invités
 
