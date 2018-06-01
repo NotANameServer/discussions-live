@@ -7,10 +7,10 @@ Prévu le vendredi 1 juin 2018 à 20h, en live sur le [discord NaN](https://disc
 
 La création de jeux vidéos est probablement la motivation principale de nombreux débutants en programmation,
 particulièrement en C++. Malheureusement, les raisons d'un tel engouement sont souvent basées sur des
-des a prioris sur le développement de jeux vidéos.
+des a priori sur le développement de jeux vidéos.
 
-Il faut reconnaître que le développement de jeux vidéos est un domaine qui peut être passionant. En premier
-lieu parce que les jeux vidéos en eux-mêmes sont passionants. Mais aussi parce que les jeux vidéos
+Il faut reconnaître que le développement de jeux vidéos est un domaine qui peut être passionnant. En premier
+lieu parce que les jeux vidéos en eux-mêmes sont passionnants. Mais aussi parce que les jeux vidéos
 demandent des compétences dans de très nombreux domaines, artistiques ou techniques : graphismes, sons,
 game design, performances, intelligence artificielle, etc.
 
