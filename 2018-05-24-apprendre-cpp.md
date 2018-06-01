@@ -9,7 +9,7 @@ Cette question polémique, voire trollesque, revient souvent dans les discussion
 s'agit de choisir un premier langage de programmation.
 
 En pratique, personne ne peut soutenir que le C++ n'existera plus dans 10 ans. Voire dans 20 ans.
-Donc la réponse à cette question pourait être : oui, on *peut* continuer à apprendre le C++.
+Donc la réponse à cette question pourrait être : oui, on *peut* continuer à apprendre le C++.
 Mais cette réponse n'est pas forcément satisfaisante. La question est "faut-il". 
 
 Dans cette discussion, nous allons aborder ce qui caractérise le C++ de nos jours, et quels sont
