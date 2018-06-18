@@ -11,7 +11,7 @@ Plusieurs formats sont proposés, en fonction des intervenants et des thèmes :
 
 ## Discussions passées
 
-- 24 mai 2018 : [Faut-il continuer à apprendre le C++ ?](2018-05-24-apprendre-cpp.md)
+- 24 mai 2018 : [Faut-il continuer à apprendre le C++ ?](2018-05-24-apprendre-cpp.md) [YouTube](https://youtu.be/Uxr937v44JI)
 - 1 juin 2018 : [Est-ce une erreur de vouloir apprendre à développer des jeux vidéos ?](2018-06-01-jeux-videos.md)
 
 ## Planning des futures discussions
