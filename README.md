@@ -16,7 +16,7 @@ Plusieurs formats sont proposés, en fonction des intervenants et des thèmes :
 
 ## Planning des futures discussions
 
-- 21 juin 2018 : preuves, tests, qualité logicielle
+- 21 juin 2018 : [preuves, tests, qualité logicielle](2018-06-21-preuve.md)
 
 ## Propositions
 
