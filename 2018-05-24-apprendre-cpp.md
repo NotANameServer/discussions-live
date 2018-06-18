@@ -24,3 +24,7 @@ Note : l'idée du thème de cette discussion vient d'un article en cours de réd
 # Invités
 
 Invités : Lmghs (Luc Hermitte), Lynix (Jérome Leclerc) et Ksass'peuk (Allan Blanchard). Animateur : gbdivers (Guillaume Belz).
+
+# Rediffusion sur YouTube
+
+[Faut-il continuer à apprendre le C++ ?](https://youtu.be/Uxr937v44JI)
